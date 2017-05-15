@@ -1,10 +1,10 @@
 ## Nama Aplikasi 
-<br> Watch Film <br>
+Watch Film <br>
 
-##Link APK 
+## Link APK 
 <br> https://drive.google.com/drive/u/2/my-drive <br>
 
-##Identitas Siswa
+## Identitas Siswa
 <br> Nama lengkap : Bernadeth Rosalia Cika Andhini
 <br> Kelas / No urut : XI RPL 4 / 10
 <br> NIS :  4686/1406.070
@@ -14,21 +14,21 @@
 ## Alamat API yang digunakan pada Aplikasi : 
 <br> https://www.themoviedb.org/documentation/api <br>
 
-#Jenis Navigasi yang digunakan pada Aplikasi :
+## Jenis Navigasi yang digunakan pada Aplikasi :
 <br> Navigation Tabs (Action Bar Tabs (with ViewPager)) <br>
 
-#Library dari Local Database yang digunakan pada Aplikasi :
-<br> SQLite Dasar <br>
+## Library dari Local Database yang digunakan pada Aplikasi :
+<br> - <br>
 
-#Deskripsi singkat dari aplikasi minimal 200 karakter :
+## Deskripsi singkat dari aplikasi minimal 200 karakter :
 <br> Aplikasi ini merupakan aplikasi yang menggunakan API untuk menampilkan data tentang film yang sekarang tayang, populer, maupun akan tayang. 
 Aplikasi ini menggunakan API The Movie Database untuk mengambil data film. 
 Aplikasi ini dapat menampilkan gambar, judul, dan penjelasan singkat dari setiap film. 
 Aplikasi ini dapat melihat film yang sedang populer, 
 film yang sedang tayang, film yang memiliki rate tertinggi, dan film yang akan tayang. <br>
-#Kelebihan dari Aplikasi :
+## Kelebihan dari Aplikasi :
 <br> User Interface yang menarik dan tidak membosankan, mudah digunakan, dapat menampilkan film-film terbaru, film populer, film yang memiliki rating tertinggi, dan film-film yang akan tayang.<br>
-#Screenshot dari Aplikasi :
+## Screenshot dari Aplikasi :
 <br> Now Playing <br>
 ![now playing](https://cloud.githubusercontent.com/assets/22133514/26034459/1376ac48-38e7-11e7-91e9-05871c911bdd.jpeg)
 <br> Top Rated <br>
