@@ -18,7 +18,7 @@ https://www.themoviedb.org/documentation/api <br>
 Navigation Tabs (Action Bar Tabs (with ViewPager)) <br>
 
 ## Library dari Local Database yang digunakan pada Aplikasi :
-SQLite <br>
+SQLite Dasar berfungsi untuk menampilkan data film saat offline <br>
 
 ## Deskripsi singkat dari aplikasi minimal 200 karakter :
 Aplikasi ini merupakan aplikasi yang menggunakan API untuk menampilkan data tentang film yang sekarang tayang, populer, maupun akan tayang. 
